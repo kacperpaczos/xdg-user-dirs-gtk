@@ -1,0 +1,6 @@
+data/org.gnome.XdgUserDirsGtk.desktop.in
+data/org.gnome.XdgUserDirsGtk.appdata.xml.in
+data/org.gnome.XdgUserDirsGtk.gschema.xml
+src/main.c
+src/xdg-user-dirs-gtk-window.c
+src/xdg-user-dirs-gtk-window.ui
